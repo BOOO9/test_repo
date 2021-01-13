@@ -1,17 +1,20 @@
-test 1 08:01
-
-bravo
-
-test 2 08:03
- 
 
 ARTIKEL 1: 
 Alle Menschen sind frei und gleich an Wuerde und Rechten geboren. Sie sind mit Vernunft und Gewissen begabt und sollen einander im Geiste der Bruederlichkeit begegnen.
 
 
-test 3 08:15 merge udianreturian
+Artikel 2:
+
+
+3
+
+
+4
+
+
+5
 
 
 
-hallo
-merge conf äähhhh
+
+

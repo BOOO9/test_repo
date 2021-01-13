@@ -5,7 +5,13 @@ bravo
 test 2 08:03
  
 
-test 3 08:14
+ARTIKEL 1: 
+Alle Menschen sind frei und gleich an Wuerde und Rechten geboren. Sie sind mit Vernunft und Gewissen begabt und sollen einander im Geiste der Bruederlichkeit begegnen.
+
+
+test 3 08:15 merge udianreturian
+
+
 
 hallo
 merge conf äähhhh
